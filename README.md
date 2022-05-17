@@ -86,6 +86,9 @@ curl -XGET $(terraform output url)/$(terraform output path)
 ```
 
 # APP_CODE and Build / Deploy
+```
+cd app_code
+```
 
 ## Requirements
 - Docker
